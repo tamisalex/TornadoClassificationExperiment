@@ -14,10 +14,10 @@ First you should read [NEXRAD_Tornado_Classification_Report](notebooks/NEXRAD_To
 
 Then if you wish to run my code run these files in order: 
 
-[StormEventDataCollector](notebooks/NEXRAD_Tornado_Classification_Report.ipynb)
+[StormEventDataCollector](notebooks/StormEventDataCollector.ipynb)
 
-[RadarDataCollector](notebooks/NEXRAD_Tornado_Classification_Report.ipynb)
+[RadarDataCollector](notebooks/RadarDataCollector.ipynb)
 
-[RadarDataProcessor](notebooks/NEXRAD_Tornado_Classification_Report.ipynb)
+[RadarDataProcessor](notebooks/RadarDataProcessor.ipynb.ipynb)
 
-[TornadoModelAndMetrics](notebooks/NEXRAD_Tornado_Classification_Report.ipynb)
+[TornadoModelAndMetrics](notebooks/TornadoModelAndMetrics.ipynb)
